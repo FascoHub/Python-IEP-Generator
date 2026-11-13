@@ -1,0 +1,5 @@
+__pycache__/
+.venv/
+data/*.db
+data/.storage_secret
+.nicegui/
